@@ -1,0 +1,4 @@
+﻿cd door_management_files/
+cd door_configuration/
+nano door_1.conf
+close to open
